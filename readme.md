@@ -5,6 +5,6 @@ I'm dadan hidayat, **Fullstack developer** :computer:.
 |---|---|---|---|
 | PHP  |Codeigniter   |  MySQL | NodeJS  |
 | JavaScript  |Laravel   |  PostgreSQL |TypeScript   |
-| Go  |C++   |LeafPHP   |  Tailwindcss |
-| ReactJS  | VueJS  |   | Bootstrap |
+| Go  |C++   |Leaf PHP   |  Tailwindcss |
+| C++  | VueJS  |   | Bootstrap |
 | | Lumen | | |
